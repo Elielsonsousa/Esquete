@@ -1,0 +1,59 @@
+
+
+  @media only screen and (max-width: 600px){
+
+    .container{
+        width: 300px;
+        height: 335px;
+        border-width: 5px;
+        border-radius: 7px;
+        background-color: #5d616a;
+        margin-left: 10%;
+        margin-top: 25%;
+        position: absolute;
+        
+        
+    }
+    .chat{
+        max-width: 283px;
+        max-height: 260px;
+        border-width: 5px;
+        border-radius: 7px;
+        background-color: #71747a;
+        margin-left: 3%;
+        margin-top: 10%;
+        position: absolute;
+        
+       
+      }
+      .txt-title{
+          position: absolute;
+          margin-left: 27%;
+          top: -13px;
+          color: #fff;
+          font-weight: bold;
+      }
+      .name-person-chat{
+          position: absolute;
+          padding: 5px;
+          margin-top: -2px;
+      }
+
+      .input{
+          width: 275px;
+          height: 31px;
+          border-radius: 7px;
+          position: absolute;
+          margin-top: 98%;
+          margin-left: -47%;
+          background-color: #c0c2c6;
+          border-color: #0d47bc01;
+      }
+      .btn-msg{
+          position: absolute;
+          margin-top: 99%;
+          left: 83%;
+          border-radius: 7px;
+          border-color: #0d47bc01;
+      }
+  }
